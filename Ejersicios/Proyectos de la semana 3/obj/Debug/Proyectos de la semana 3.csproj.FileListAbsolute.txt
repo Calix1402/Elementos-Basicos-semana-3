@@ -1,0 +1,7 @@
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\obj\Debug\Proyectos de la semana 3.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\obj\Debug\Proyectos de la semana 3.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\bin\Debug\Proyectos de la semana 3.exe.config
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\bin\Debug\Proyectos de la semana 3.exe
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\bin\Debug\Proyectos de la semana 3.pdb
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\obj\Debug\Proyectos de la semana 3.exe
+C:\Users\alexi\OneDrive\Escritorio\Proyectos transcurso de la semana\Ejersicios\Proyectos de la semana 3\obj\Debug\Proyectos de la semana 3.pdb
